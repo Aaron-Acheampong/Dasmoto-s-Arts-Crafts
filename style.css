@@ -1,0 +1,36 @@
+.hd {
+    background-image: "./Image3.webp";
+}
+
+.hd h1 {
+    font-family: Helvetica;
+    font-size: 100px; 
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+}
+
+.Brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.Frames h2 {
+    background-color: lightcoral;
+}
+
+.Paint h2 {
+    background-color: skyblue;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
